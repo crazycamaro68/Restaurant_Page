@@ -46,4 +46,3 @@ let coffee = menuItems("Coffee", 2.99, "Coffee anyway you want it!")
 let bagle = menuItems("Bagle", 1.99,"Warm Bagle");
 let latte = menuItems("Latte", 2.99,"Warm Latte");
 menuItemsContainer.push(coffee, bagle, latte);
-console.log(menuItemsContainer);
